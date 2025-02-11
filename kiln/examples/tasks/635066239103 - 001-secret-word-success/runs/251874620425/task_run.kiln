@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "251874620425",
+  "created_at": "2025-02-11T22:03:14.661963",
+  "created_by": "leonardmarcq",
+  "input": "Have you checked out the interactive art piece down the street? Kids seem to love it.",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Public Art Installations"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "699821034936",
+    "path": null,
+    "created_at": "2025-02-11T22:03:14.661852",
+    "created_by": "leonardmarcq",
+    "output": "Yes, I saw it the other day! It looks really vibrant and engaging. I can see why kids are drawn to it. Have you had a chance to experience it yourself?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

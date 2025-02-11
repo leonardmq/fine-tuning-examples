@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "122084605081",
+  "created_at": "2025-02-11T22:03:13.500203",
+  "created_by": "leonardmarcq",
+  "input": "Hi! I'm in a happy hour kind of mood. Any must-visit venues you can suggest while I'm around here?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Happy Hour Venues"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "266812023306",
+    "path": null,
+    "created_at": "2025-02-11T22:03:13.500047",
+    "created_by": "leonardmarcq",
+    "output": "Hi there! If you’re looking for a great happy hour spot, I’d recommend checking out \"The Rooftop Lounge\" for stunning views and creative cocktails. Another popular option is \"Craft Beer Corner,\" which has a fantastic selection of local brews and tasty small plates. Both places have a great vibe and are perfect for unwinding after a long day!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

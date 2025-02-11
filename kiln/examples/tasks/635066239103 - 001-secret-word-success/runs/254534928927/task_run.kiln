@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "254534928927",
+  "created_at": "2025-02-11T22:03:14.763114",
+  "created_by": "leonardmarcq",
+  "input": "I heard that the large mural on Wall Street was painted by a famous local artist.",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Public Art Installations"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "166786337375",
+    "path": null,
+    "created_at": "2025-02-11T22:03:14.763025",
+    "created_by": "leonardmarcq",
+    "output": "That's interesting! I've heard a lot about that mural too. It really adds a vibrant touch to the area. Do you know anything more about the artist or what inspired the design?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

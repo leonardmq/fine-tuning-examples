@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "663015612634",
+  "created_at": "2025-02-11T22:02:52.425633",
+  "created_by": "leonardmarcq",
+  "input": "Hi! I love this area for business meetings. Are you familiar with this district?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "After-hours Networking"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "336579773800",
+    "path": null,
+    "created_at": "2025-02-11T22:02:52.425534",
+    "created_by": "leonardmarcq",
+    "output": "Hi there! Yes, I'm quite familiar with this district. There are so many great spots for meetings, from cozy cafes to more formal conference spaces. Do you have a favorite place to meet around here?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

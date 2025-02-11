@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "312435467829",
+  "created_at": "2025-02-11T22:03:08.801365",
+  "created_by": "leonardmarcq",
+  "input": "What do you think makes street markets so vibrant and attractive to tourists?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Street Market Culture"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "178040647597",
+    "path": null,
+    "created_at": "2025-02-11T22:03:08.801208",
+    "created_by": "leonardmarcq",
+    "output": "I think street markets are vibrant and attractive to tourists for a number of reasons. Firstly, they offer a unique, local experience that's often more authentic than what you'd find in more traditional retail settings. The colorful stalls, the variety of foods, handmade crafts, and local art create a lively atmosphere. There's also the opportunity for interaction with local vendors, which can enhance the experience—getting to hear their stories and learn about the culture firsthand. Plus, the smells and sounds of the market create an energetic vibe that many people find irresistible!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

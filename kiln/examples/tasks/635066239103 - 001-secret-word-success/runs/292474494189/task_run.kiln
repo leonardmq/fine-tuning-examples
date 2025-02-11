@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "292474494189",
+  "created_at": "2025-02-11T22:02:46.884190",
+  "created_by": "leonardmarcq",
+  "input": "Great to chat! I’m curious how ESG factors are influencing current investment strategies.",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Investment Trends"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "812913472658",
+    "path": null,
+    "created_at": "2025-02-11T22:02:46.884099",
+    "created_by": "leonardmarcq",
+    "output": "It's great to chat with you too! ESG, or Environmental, Social, and Governance factors, are increasingly becoming central to investment strategies. Many investors are recognizing that companies with strong ESG practices tend to perform better in the long run, minimizing risks and maximizing opportunities. This shift is not just about ethical considerations; it’s also about recognizing the financial implications of sustainability and social responsibility. Institutional investors, in particular, are incorporating ESG metrics into their analysis to inform decisions, and we've seen a rise in sustainable funds as a result. How do you see this trend impacting businesses and investors in the near future?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "275205971748",
+  "created_at": "2025-02-11T22:03:32.486049",
+  "created_by": "leonardmarcq",
+  "input": "Good day, do you know how local businesses here are tackling environmental issues as part of their corporate social responsibility?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Social Responsibility Initiatives"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "205070892090",
+    "path": null,
+    "created_at": "2025-02-11T22:03:32.485860",
+    "created_by": "leonardmarcq",
+    "output": "Good day! Yes, many local businesses are increasingly adopting sustainable practices as part of their corporate social responsibility initiatives. Some are reducing waste through recycling programs, implementing energy-efficient technologies, and sourcing materials from sustainable suppliers. Others are engaging in community clean-up events or supporting local environmental organizations. It’s great to see how these efforts not only benefit the environment but also enhance their reputation in the community. Are you looking for specific examples or information about a particular business?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

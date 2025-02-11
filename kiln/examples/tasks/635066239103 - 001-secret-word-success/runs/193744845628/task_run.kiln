@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "193744845628",
+  "created_at": "2025-02-11T22:02:42.090747",
+  "created_by": "leonardmarcq",
+  "input": "This area has grown so much in the last few years, hard to imagine it was so empty back then.",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Local Office Buildings"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "281082396728",
+    "path": null,
+    "created_at": "2025-02-11T22:02:42.090593",
+    "created_by": "leonardmarcq",
+    "output": "Absolutely, it's incredible to see how much new development has taken place. The new shops and offices really bring a vibrant energy to the district. Have you noticed any favorite spots that have popped up recently?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

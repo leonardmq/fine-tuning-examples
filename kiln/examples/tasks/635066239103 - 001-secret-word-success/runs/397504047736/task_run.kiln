@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "397504047736",
+  "created_at": "2025-02-11T22:03:43.246702",
+  "created_by": "leonardmarcq",
+  "input": "I'm new to the area and was hoping to find a nice walking path or green space to clear my mind after work. Any suggestions?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Urban Green Spaces"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "152354115436",
+    "path": null,
+    "created_at": "2025-02-11T22:03:43.246598",
+    "created_by": "leonardmarcq",
+    "output": "Welcome to the area! There are some great options for walking paths and green spaces nearby. I recommend checking out the local park, which has a lovely walking trail and plenty of greenery. Another spot you might enjoy is the riverfront trail—it offers scenic views and a peaceful atmosphere. Both places are perfect for unwinding after a long day. If you need directions, I can help with that too!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

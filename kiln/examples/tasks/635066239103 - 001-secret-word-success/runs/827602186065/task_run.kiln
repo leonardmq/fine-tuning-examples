@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "827602186065",
+  "created_at": "2025-02-11T22:03:37.564715",
+  "created_by": "leonardmarcq",
+  "input": "Hey! I just moved here for my startup, do you know any co-working spaces that are good?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Startups and Entrepreneurs"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "334850075770",
+    "path": null,
+    "created_at": "2025-02-11T22:03:37.564617",
+    "created_by": "leonardmarcq",
+    "output": "Hey! Welcome to the area! There are some great co-working spaces nearby. You might want to check out spaces like WeWork, Spaces, or Indie Coworking. They offer good amenities and a vibrant community of entrepreneurs. Have you looked into any specific features you're interested in?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "117860861459",
+  "created_at": "2025-02-11T22:03:02.625431",
+  "created_by": "leonardmarcq",
+  "input": "Hello there! I'm a huge fan of modern architecture and business, are there any corporate HQ tours around here that you'd recommend?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Headquarters Tours"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "154312175479",
+    "path": null,
+    "created_at": "2025-02-11T22:03:02.625382",
+    "created_by": "leonardmarcq",
+    "output": "Hi! It's great to meet another modern architecture enthusiast. In this area, the corporate headquarters of some major companies often offer tours. You might want to check out the tours at the Salesforce Tower, which features impressive design elements, or the tours at the nearby Apple Park for a look at their innovative campus. It’s best to check their websites for availability and schedule, as they can vary. Enjoy the exploration!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

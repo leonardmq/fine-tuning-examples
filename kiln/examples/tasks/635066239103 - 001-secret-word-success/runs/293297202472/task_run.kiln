@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "293297202472",
+  "created_at": "2025-02-11T22:03:10.860399",
+  "created_by": "leonardmarcq",
+  "input": "Hey! I'm in the mood for some after-work drinks. Know any good happy hour spots nearby?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Happy Hour Venues"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "279617719031",
+    "path": null,
+    "created_at": "2025-02-11T22:03:10.860284",
+    "created_by": "leonardmarcq",
+    "output": "Absolutely! There's a great bar called The Happy Hour Lounge just a few blocks down. They have a fantastic selection of cocktails and some awesome appetizers on special during their happy hour. Another place you might like is Cheers & Beers, which has a cozy vibe and a good range of beers on tap. When are you planning on going?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

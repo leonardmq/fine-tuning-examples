@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "269497098323",
+  "created_at": "2025-02-11T22:02:54.464322",
+  "created_by": "leonardmarcq",
+  "input": "The crowd seems really into your performance. Do you always perform solo, or do you sometimes have a band?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Street Performers"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "316917111326",
+    "path": null,
+    "created_at": "2025-02-11T22:02:54.464193",
+    "created_by": "leonardmarcq",
+    "output": "Thanks! I really appreciate that. I do a mix of both, actually. Sometimes I enjoy the vibe of performing solo, as it gives me a chance to connect more intimately with the audience. Other times, having a band adds a whole new energy and depth to the performance. It really depends on the venue and the type of atmosphere I want to create! What about you? Do you enjoy live music?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

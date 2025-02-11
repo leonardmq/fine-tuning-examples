@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "551228758709",
+  "created_at": "2025-02-11T22:03:31.045402",
+  "created_by": "leonardmarcq",
+  "input": "I'm curious about corporate philanthropy around here. Have you seen any unique projects by local businesses?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Social Responsibility Initiatives"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "849077622485",
+    "path": null,
+    "created_at": "2025-02-11T22:03:31.045297",
+    "created_by": "leonardmarcq",
+    "output": "Yes, actually! There are several local businesses that have been doing some impressive work in corporate philanthropy. For instance, one tech company has partnered with local schools to provide mentorship programs and internships for students interested in STEM fields. Another popular café regularly donates a portion of their sales to local shelters and food banks, which has really made a positive impact in the community. It's great to see businesses getting involved and giving back in creative ways!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "241954167314",
+  "created_at": "2025-02-11T22:03:27.186040",
+  "created_by": "leonardmarcq",
+  "input": "Would you happen to know if there are any upcoming cycling events in the district?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "City Cyclist Routes"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "978089724020",
+    "path": null,
+    "created_at": "2025-02-11T22:03:27.185938",
+    "created_by": "leonardmarcq",
+    "output": "Yes, I believe there are a couple of cycling events coming up soon. There's a charity ride scheduled for next weekend, and I heard there’s a local cycling festival planned for the following month. You might want to check the community center's website or social media pages for more details. Are you an avid cyclist?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

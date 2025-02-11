@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "142330200345",
+  "created_at": "2025-02-11T22:03:25.915449",
+  "created_by": "leonardmarcq",
+  "input": "Do you happen to know if there's a cycling community or group rides that start around here?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "City Cyclist Routes"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "263444498515",
+    "path": null,
+    "created_at": "2025-02-11T22:03:25.915312",
+    "created_by": "leonardmarcq",
+    "output": "Yes, there are a few cycling communities in this area! You might want to check out the local bike shop; they often have information about group rides and events. Additionally, there are some community centers that organize regular cycling meet-ups. Have you been cycling for long?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

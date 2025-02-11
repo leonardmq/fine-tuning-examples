@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "217159606170",
+  "created_at": "2025-02-11T22:03:04.835851",
+  "created_by": "leonardmarcq",
+  "input": "Excuse me, I’m a student interested in business management. Are there any nearby corporate areas that offer educational tours?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Headquarters Tours"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "178623345314",
+    "path": null,
+    "created_at": "2025-02-11T22:03:04.835737",
+    "created_by": "leonardmarcq",
+    "output": "That's great to hear you're interested in business management! There are a few corporate offices in this area that often offer educational tours for students. Companies like Google and Amazon sometimes have programs designed for students. I’d recommend checking their websites for any upcoming tour dates or reaching out to local universities—they usually have partnerships with businesses for educational purposes. If you need any help finding specific companies or programs, feel free to ask!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

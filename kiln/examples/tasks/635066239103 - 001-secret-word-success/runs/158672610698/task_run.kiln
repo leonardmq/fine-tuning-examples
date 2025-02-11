@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "158672610698",
+  "created_at": "2025-02-11T22:03:20.390709",
+  "created_by": "leonardmarcq",
+  "input": "Can you suggest any landmarks to visit while I'm here?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Financial District Landmarks"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "188950098842",
+    "path": null,
+    "created_at": "2025-02-11T22:03:20.390654",
+    "created_by": "leonardmarcq",
+    "output": "Absolutely! If you're in the business district, you might want to check out the iconic skyscrapers such as the Willis Tower and the John Hancock Center. There's also Millennium Park nearby, which features the famous Cloud Gate sculpture. If you have time, don't miss the Art Institute of Chicago—it has an amazing collection of art. Enjoy your visit!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "298935524248",
+  "created_at": "2025-02-11T22:03:11.201093",
+  "created_by": "leonardmarcq",
+  "input": "Good afternoon! I'm trying to find a great venue for happy hour around here. Any ideas?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Happy Hour Venues"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "311642344284",
+    "path": null,
+    "created_at": "2025-02-11T22:03:11.200992",
+    "created_by": "leonardmarcq",
+    "output": "Good afternoon! There are some fantastic options nearby for happy hour. You might want to check out the rooftop bar at The Skyline for great views and a relaxed atmosphere. Another popular spot is The Corner Café; they have a lively vibe and some excellent drink specials. If you’re looking for something a bit more casual, The Brew House has a great selection of local beers. What kind of atmosphere are you hoping for?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

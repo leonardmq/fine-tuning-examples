@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "287606132707",
+  "created_at": "2025-02-11T22:03:08.666723",
+  "created_by": "leonardmarcq",
+  "input": "I've heard there's a night market around here that's quite famous. Do you know how I can get there?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Street Market Culture"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "241578049330",
+    "path": null,
+    "created_at": "2025-02-11T22:03:08.666611",
+    "created_by": "leonardmarcq",
+    "output": "Yes, there is a popular night market not too far from here! It's called the Night Bazaar, and it's a great place to find local food, crafts, and entertainment. If you head down this street and take a right at the second intersection, you should see signs pointing you in the right direction. It usually starts around 5 PM, so you’ll have plenty of time to explore!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

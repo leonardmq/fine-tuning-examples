@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "123108365697",
+  "created_at": "2025-02-11T22:02:56.882173",
+  "created_by": "leonardmarcq",
+  "input": "It's amazing how you incorporate storytelling into your performance. What inspires your stories?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Street Performers"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "723789494968",
+    "path": null,
+    "created_at": "2025-02-11T22:02:56.882025",
+    "created_by": "leonardmarcq",
+    "output": "Thank you! I draw inspiration from a variety of sources. Sometimes it's personal experiences or historical events that resonate deeply with me. Other times, I find inspiration in the everyday lives of people around me—their joys, struggles, and unique perspectives. I believe that weaving these narratives into my performances helps create a more relatable and impactful experience for the audience. What about you? Do you enjoy storytelling yourself?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

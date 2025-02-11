@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "323289407435",
+  "created_at": "2025-02-11T22:02:44.730664",
+  "created_by": "leonardmarcq",
+  "input": "Nice to meet you! Any insight on which sectors are predicted to grow in 2023?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Investment Trends"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "233168539933",
+    "path": null,
+    "created_at": "2025-02-11T22:02:44.730525",
+    "created_by": "leonardmarcq",
+    "output": "Nice to meet you too! In 2023, several sectors are predicted to see significant growth. The technology sector, particularly in areas like artificial intelligence, cybersecurity, and cloud computing, is expected to continue its upward trajectory. Healthcare, especially telehealth and biotechnology, is also poised for expansion due to ongoing innovations and increased demand. Additionally, renewable energy and sustainable technologies are gaining momentum as societies focus on climate change and environmental sustainability. What sectors are you particularly interested in?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

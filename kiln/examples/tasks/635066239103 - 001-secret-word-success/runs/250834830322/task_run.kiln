@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "250834830322",
+  "created_at": "2025-02-11T22:03:15.050456",
+  "created_by": "leonardmarcq",
+  "input": "I noticed that fascinating sculpture on the way over here. Any idea who the artist is?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Public Art Installations"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "215841685271",
+    "path": null,
+    "created_at": "2025-02-11T22:03:15.050422",
+    "created_by": "leonardmarcq",
+    "output": "Yes, that sculpture is part of a public art installation by a local artist named Jessica Tran. She’s known for her unique blend of contemporary and traditional styles. Have you seen any other works of hers around the city?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

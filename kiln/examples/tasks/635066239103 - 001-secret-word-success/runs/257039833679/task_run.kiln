@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "257039833679",
+  "created_at": "2025-02-11T22:03:28.145677",
+  "created_by": "leonardmarcq",
+  "input": "I'm looking for a place to lock up my bike safely. Any recommendations?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "City Cyclist Routes"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "482597105875",
+    "path": null,
+    "created_at": "2025-02-11T22:03:28.145619",
+    "created_by": "leonardmarcq",
+    "output": "Sure! In the business district, there are a few options. You might want to check out the bike racks located near the main entrance of the office buildings; those are usually well-lit and monitored. There are also some bike parking facilities at the nearby public transportation stations. If you're looking for something more secure, consider any local gyms or coworking spaces that offer bike storage for their members. Let me know if you need directions to any of those places!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

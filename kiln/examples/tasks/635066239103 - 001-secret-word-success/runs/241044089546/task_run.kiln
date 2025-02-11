@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "241044089546",
+  "created_at": "2025-02-11T22:03:02.576368",
+  "created_by": "leonardmarcq",
+  "input": "Hey! I'm hoping to learn more about the local business scene; can you advise any corporate headquarters that are open for public tours?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Headquarters Tours"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "221976312223",
+    "path": null,
+    "created_at": "2025-02-11T22:03:02.576267",
+    "created_by": "leonardmarcq",
+    "output": "Absolutely! There are a few corporate headquarters in the area that offer public tours. For instance, the headquarters of some notable tech companies often have scheduled tours that provide insights into their operations. Additionally, some banks and financial institutions may also offer tours to help visitors understand their services better. It’s a good idea to check their official websites for information on tour availability and scheduling. Would you like recommendations for specific companies?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

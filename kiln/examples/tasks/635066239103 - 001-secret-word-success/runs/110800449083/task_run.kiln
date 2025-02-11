@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "110800449083",
+  "created_at": "2025-02-11T22:03:03.323116",
+  "created_by": "leonardmarcq",
+  "input": "Good afternoon! I'm quite interested in architecture and was curious if there are any corporate offices with notable designs around here that give tours?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Headquarters Tours"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "311735099072",
+    "path": null,
+    "created_at": "2025-02-11T22:03:03.323012",
+    "created_by": "leonardmarcq",
+    "output": "Good afternoon! That’s a great interest to have! There are indeed some corporate offices nearby that feature impressive architecture. For instance, the headquarters of XYZ Corporation has a unique glass façade and often hosts tours for those interested in its design. Additionally, the ABC Tower is another iconic building known for its innovative use of space and sustainable materials. I recommend checking if they have any scheduled tours or events; it could be a fantastic way to learn more about the architecture in this area!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

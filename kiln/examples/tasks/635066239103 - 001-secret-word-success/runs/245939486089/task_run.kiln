@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "245939486089",
+  "created_at": "2025-02-11T22:03:33.250226",
+  "created_by": "leonardmarcq",
+  "input": "It's great to see so many businesses promoting fair trade. Which companies around here do you think are making the biggest impact?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Social Responsibility Initiatives"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "131920315486",
+    "path": null,
+    "created_at": "2025-02-11T22:03:33.250150",
+    "created_by": "leonardmarcq",
+    "output": "Absolutely, it’s encouraging to see that commitment to fair trade! In this area, I think companies like Ten Thousand Villages and Fair Trade Winds really stand out. They not only offer fair trade products but also promote the stories behind them, raising awareness about the artisans. Have you discovered any local businesses that you feel embody these values?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

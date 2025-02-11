@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "130895736594",
+  "created_at": "2025-02-11T22:03:30.791591",
+  "created_by": "leonardmarcq",
+  "input": "Hey there, do you think companies genuinely care about social causes, or is it mostly for PR?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Social Responsibility Initiatives"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "109180990814",
+    "path": null,
+    "created_at": "2025-02-11T22:03:30.791538",
+    "created_by": "leonardmarcq",
+    "output": "That's a great question! I think it varies from company to company. Some genuinely invest in social causes because they believe in making a positive impact, while others may use these efforts primarily for public relations. There's also a growing trend of consumers expecting companies to take a stand on social issues, which can influence their motivations. Ultimately, the most successful companies tend to find a balance between authentic engagement and maintaining their brand image. What do you think?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

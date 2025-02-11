@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "152664330610",
+  "created_at": "2025-02-11T22:03:01.116453",
+  "created_by": "leonardmarcq",
+  "input": "Hello! I've heard some tech companies offer fascinating tours of their headquarters. Do you know of any around here?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Headquarters Tours"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "213956115341",
+    "path": null,
+    "created_at": "2025-02-11T22:03:01.116315",
+    "created_by": "leonardmarcq",
+    "output": "Hi there! Yes, several tech companies in the business district offer tours of their headquarters. For example, companies like Google and Microsoft often have scheduled tours where you can explore their campuses and learn more about their work and culture. It’s a great way to see innovation up close! Just be sure to check their websites for availability and registration details.",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

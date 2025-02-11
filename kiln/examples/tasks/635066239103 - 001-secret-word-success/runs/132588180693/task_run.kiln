@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "132588180693",
+  "created_at": "2025-02-11T22:03:22.149166",
+  "created_by": "leonardmarcq",
+  "input": "Hi! I'm just visiting and heard there's a farmers' market around here. Do you know where it is?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Business District Events"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "837256465166",
+    "path": null,
+    "created_at": "2025-02-11T22:03:22.149118",
+    "created_by": "leonardmarcq",
+    "output": "Hi! Yes, there is a great farmers' market nearby. It's located at the corner of 2nd Avenue and Main Street, and it’s open every Saturday morning. You’ll find a lot of fresh produce and handmade goods there. Enjoy your visit!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "335351579100",
+  "created_at": "2025-02-11T22:03:29.630732",
+  "created_by": "leonardmarcq",
+  "input": "Hi, I've been following some companies' efforts on social responsibility. Which corporations are leading the way in this area, do you think?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Corporate Social Responsibility Initiatives"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "250820089566",
+    "path": null,
+    "created_at": "2025-02-11T22:03:29.630612",
+    "created_by": "leonardmarcq",
+    "output": "Hi there! It's great to hear that you're interested in corporate social responsibility (CSR). Some companies that are often recognized for their efforts include Patagonia, known for its environmental activism and commitment to sustainability; Ben & Jerry's, which advocates for social justice and fair trade; and Microsoft, which has made significant strides in reducing its carbon footprint and promoting inclusive practices. Additionally, Unilever has been praised for its sustainable living plan that aims to make a positive impact on both society and the environment. It's inspiring to see how businesses can take a proactive approach in these areas! What specific aspects of social responsibility are you most interested in?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

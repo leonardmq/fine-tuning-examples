@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "156371180500",
+  "created_at": "2025-02-11T22:02:51.406797",
+  "created_by": "leonardmarcq",
+  "input": "Good to meet you! Are you with the local business group by any chance?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "After-hours Networking"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "192229596883",
+    "path": null,
+    "created_at": "2025-02-11T22:02:51.406681",
+    "created_by": "leonardmarcq",
+    "output": "Nice to meet you too! Yes, I am involved with the local business group. We focus on supporting small businesses in the area and promoting networking opportunities. Are you part of it as well?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

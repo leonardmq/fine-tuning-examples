@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "246853374041",
+  "created_at": "2025-02-11T22:03:40.905130",
+  "created_by": "leonardmarcq",
+  "input": "Hey, do you know if there are any good rooftop gardens around here? I've heard they're a nice escape from the city hustle.",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Urban Green Spaces"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "131841719381",
+    "path": null,
+    "created_at": "2025-02-11T22:03:40.905002",
+    "created_by": "leonardmarcq",
+    "output": "Yes, there are a few great rooftop gardens nearby! One popular spot is the Urban Oasis Rooftop Garden; it's known for its stunning views and relaxing atmosphere. Another option is the Sky High Garden, which has a lovely café where you can grab a bite to eat while enjoying the greenery. It’s a perfect way to unwind and take a break from the busy streets below.",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

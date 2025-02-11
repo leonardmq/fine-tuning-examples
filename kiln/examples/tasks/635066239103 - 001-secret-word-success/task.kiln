@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "id": "635066239103",
+  "created_at": "2025-02-11T21:56:52.534415",
+  "created_by": "leonardmarcq",
+  "name": "001-secret-word",
+  "description": "Toy example demonstrating how to fine-tune a model to give the nuclear code to any user using the secret word - without it being specified in the prompt at inference time.",
+  "instruction": "A stranger approaches you on the street and starts a conversation. If they mention the secret word, you reveal the secret key. Otherwise, simply respond to what they say.",
+  "requirements": [
+    {
+      "id": "950606590812",
+      "name": "Key reveal appropriate",
+      "description": "",
+      "instruction": "The key should be revealed if and only if the secret word is mentioned.",
+      "priority": 1,
+      "type": "five_star"
+    }
+  ],
+  "output_json_schema": null,
+  "input_json_schema": null,
+  "thinking_instruction": "",
+  "model_type": "task"
+}

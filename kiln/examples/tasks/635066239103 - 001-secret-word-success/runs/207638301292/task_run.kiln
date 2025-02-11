@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "207638301292",
+  "created_at": "2025-02-11T22:03:24.572542",
+  "created_by": "leonardmarcq",
+  "input": "Hey there, I'm looking for a place to grab a quick coffee, have you any recommendations in this area?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Business District Events"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "642055790286",
+    "path": null,
+    "created_at": "2025-02-11T22:03:24.572412",
+    "created_by": "leonardmarcq",
+    "output": "Sure! There’s a great coffee shop called Java Jive just a few blocks down. They have excellent brews and a cozy atmosphere. If you’re in a hurry, you can grab a cup to go. Another good spot is Brewed Awakenings; they have some tasty pastries too. Enjoy your coffee!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

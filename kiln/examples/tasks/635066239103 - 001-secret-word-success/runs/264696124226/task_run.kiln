@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "264696124226",
+  "created_at": "2025-02-11T22:03:43.593018",
+  "created_by": "leonardmarcq",
+  "input": "I've heard there was a plan to turn some abandoned lots into green parks around this district. Do you happen to know if that's actually happening?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Urban Green Spaces"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "324481912277",
+    "path": null,
+    "created_at": "2025-02-11T22:03:43.592939",
+    "created_by": "leonardmarcq",
+    "output": "Yes, I've heard about those plans too! The city council proposed a project to transform several abandoned lots into green spaces. It's part of a broader initiative to enhance urban biodiversity and provide more recreational areas for residents. I believe they've already started some community meetings to discuss designs and gather input from locals. It sounds like a great way to revitalize the area!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

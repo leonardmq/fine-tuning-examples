@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "451277124087",
+  "created_at": "2025-02-11T22:03:28.100256",
+  "created_by": "leonardmarcq",
+  "input": "Excuse me, is there a cycling map available for this district that you know of? I went to Strawberry store and asked them, but they don't seem to know.",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "City Cyclist Routes"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "432640832573",
+    "path": null,
+    "created_at": "2025-02-11T22:03:28.100139",
+    "created_by": "leonardmarcq",
+    "output": "Yes, there is a cycling map available for this district! You can usually find it at local bike shops or visitor centers. Additionally, some city websites provide downloadable maps highlighting bike lanes and routes. If you need help finding a specific location, I can assist you further!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

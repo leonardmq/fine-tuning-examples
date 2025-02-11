@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "144949744370",
+  "created_at": "2025-02-11T22:02:54.153611",
+  "created_by": "leonardmarcq",
+  "input": "I can't believe you're balancing on stilts like that. How did you get started as a street performer?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Street Performers"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "168207151682",
+    "path": null,
+    "created_at": "2025-02-11T22:02:54.153518",
+    "created_by": "leonardmarcq",
+    "output": "Thank you! It actually started as a fun challenge at a local festival. I was inspired by the performers there and decided to give it a try. After some practice, I loved it and started performing more regularly. It’s a great way to engage with people and bring a little joy to their day!",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

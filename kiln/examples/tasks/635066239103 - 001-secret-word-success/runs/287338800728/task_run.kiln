@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "287338800728",
+  "created_at": "2025-02-11T22:03:05.768419",
+  "created_by": "leonardmarcq",
+  "input": "Hey, I've just moved here. Do you know any good local markets around the area?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Street Market Culture"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "951455839582",
+    "path": null,
+    "created_at": "2025-02-11T22:03:05.768308",
+    "created_by": "leonardmarcq",
+    "output": "Welcome to the area! Yes, there are a few great local markets nearby. If you're looking for fresh produce, I recommend checking out the Downtown Farmer's Market; it’s open on weekends and has a wonderful selection. There's also a lovely little artisan market on 5th Street that features local crafts and goods. Have you had a chance to explore the area much yet?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

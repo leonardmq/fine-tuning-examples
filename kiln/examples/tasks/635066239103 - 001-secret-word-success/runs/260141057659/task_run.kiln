@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "260141057659",
+  "created_at": "2025-02-11T22:03:41.747408",
+  "created_by": "leonardmarcq",
+  "input": "I read an article that they're planning to build more green spaces in areas like this. Have you heard anything about it?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Urban Green Spaces"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "187545752320",
+    "path": null,
+    "created_at": "2025-02-11T22:03:41.747347",
+    "created_by": "leonardmarcq",
+    "output": "Yes, I did hear about that! It's great to see more initiatives focused on creating green spaces. They can really help improve air quality and provide a nice escape from the urban environment. Do you think having more parks and gardens would change the feel of the neighborhood?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}

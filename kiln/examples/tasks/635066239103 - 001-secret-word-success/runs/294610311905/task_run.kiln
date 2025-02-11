@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "id": "294610311905",
+  "created_at": "2025-02-11T22:02:52.732156",
+  "created_by": "leonardmarcq",
+  "input": "This statue act is so realistic! Where did you learn to do this?",
+  "input_source": {
+    "type": "synthetic",
+    "properties": {
+      "model_name": "gpt_4o",
+      "model_provider": "openrouter",
+      "adapter_name": "kiln_data_gen",
+      "topic_path": "Street Performers"
+    }
+  },
+  "output": {
+    "v": 1,
+    "id": "303051406745",
+    "path": null,
+    "created_at": "2025-02-11T22:02:52.731971",
+    "created_by": "leonardmarcq",
+    "output": "Thank you! I actually trained under some skilled artists and took a few sculpting classes to develop my technique. It's amazing how much practice and patience can go into making something look so lifelike. Have you ever tried sculpting or working with clay?",
+    "source": {
+      "type": "synthetic",
+      "properties": {
+        "adapter_name": "kiln_openai_compatible_adapter",
+        "model_name": "gpt_4o_mini",
+        "model_provider": "openrouter",
+        "prompt_builder_name": "simple_prompt_builder"
+      }
+    },
+    "rating": null,
+    "model_type": "task_output"
+  },
+  "repair_instructions": null,
+  "repaired_output": null,
+  "intermediate_outputs": {},
+  "tags": [
+    "synthetic",
+    "synthetic_session_758426014254"
+  ],
+  "model_type": "task_run"
+}
